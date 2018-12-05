@@ -1,0 +1,12 @@
+{
+  "name": "v-jquery-collaboration",
+  "version": "1.0.0",
+  "description": "Vue directive that allows you to use jquery packages.",
+  "main": "v-jquery-collaboration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue","jquery"],
+  "author": "",
+  "license": "MIT"
+}
